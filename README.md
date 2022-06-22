@@ -10,5 +10,13 @@
   
 ## Languages/Tools that I have beign using 
 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Canta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Canta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Canta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  
+  
 <picture> <img src='C:\Users\Matheus\OneDrive\Imagens\Wallpaper\download'>
 </picture>
