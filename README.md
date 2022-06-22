@@ -16,7 +16,6 @@
   <img align="center" alt="Canta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  
-  
-<picture> <img src='C:\Users\Matheus\OneDrive\Imagens\Wallpaper\download'>
-</picture>
+<div>  
+  (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</div>
