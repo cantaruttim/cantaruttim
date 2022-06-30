@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Cantarutti (®)?
+# Olá, eu sou o Matheus Cantarutti?
 
 <div align="center">
   <a href="https://github.com/cantaruttim">
