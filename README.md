@@ -13,7 +13,6 @@
   <img align="center" alt="Canta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Canta-Jupyter" height="30" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
   <img align="center" alt="Canta-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Canta-Neo4J" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg"/>
   <img align="center" alt="Canta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Canta-RStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
 </div>
