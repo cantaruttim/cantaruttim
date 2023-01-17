@@ -1,11 +1,9 @@
 # Olá, eu sou o Matheus Cantarutti!
 
-<div align="center">
-  <a href="https://github.com/cantaruttim">
-  <img height="150em" src="github-readme-stats-eight-bay-82.vercel.app/api?username=cantaruttim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="github-readme-stats-eight-bay-82.vercel.app/api/top-langs/?username=cantaruttim&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
+<br />
+
+## Sobre mim:
+
   
 ## Linguagens 
 
@@ -24,3 +22,20 @@
   <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   </div>
+  
+
+<br />
+  
+
+## 💻 GitHub Stats:
+  
+<details>	
+  <summary><b>🔥 Github Streaks</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=cantaruttim&hide_border=true&theme=dark"></a></p>
+</details>
+
+
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
