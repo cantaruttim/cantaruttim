@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/cantaruttim">
-  <img height="150em" src="stats-kappa-wine.vercel.app/api?username=cantaruttim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="stats-kappa-wine.vercel.app/api/top-langs/?username=cantaruttim&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="stats-eti74d13v-cantaruttim.vercel.app/api?username=cantaruttim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="stats-eti74d13v-cantaruttim.vercel.app/api/top-langs/?username=cantaruttim&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
