@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Cantarutti;I+am+from+Sao+Paulo,+SP;I'm+studying+big+data+for+Bussines+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Matheus+de+Almeida+Cantarutti;Esse+é+o+meu+GitHub;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <br />
@@ -65,5 +65,6 @@
   <br>
 </div>
 
-![](./3dgraph.yml/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=footer"/>
