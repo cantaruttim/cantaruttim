@@ -43,13 +43,20 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cantaruttim&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=1A120B&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Cantarutti github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cantaruttim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+<br />
+ 
+<div align="center"> 
   
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
+  <br />
+  
+  <b>🔥 Github Streaks</b>
+  
+  <br />
+  
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=cantaruttim&hide_border=true&theme=dark"></a></p>
-</details>
-
+</div>
 
 
 <div align="center">
