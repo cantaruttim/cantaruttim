@@ -38,10 +38,6 @@
 ## 💻 GitHub Stats :fire: :
 
 <br />
-
-<Em construção ... >
-
-<br />
  
 <div align="center"> 
   
