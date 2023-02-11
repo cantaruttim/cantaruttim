@@ -35,23 +35,6 @@
 <br />
   
 
-## 💻 GitHub Stats :fire: :
-
-<br />
- 
-<div align="center"> 
-  
-  <br />
-  
-  <b> 🔥 Github Streaks </b>
-    
-  <br />
-  
-  <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=cantaruttim&hide_border=true&theme=dark"></a></p>
-</div>
-
-
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cantaruttim}/count.svg" /></p> 
