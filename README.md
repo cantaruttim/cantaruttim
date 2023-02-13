@@ -20,6 +20,12 @@
   <img align="center" alt="Canta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Canta-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
+
+<br />
+
+<div>
+   <img alt="Canta-Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
+</div>
   
   <br>
   
