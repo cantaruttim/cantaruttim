@@ -19,6 +19,8 @@
   <img align="center" alt="Canta-Jupyter" height="30" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
   <img align="center" alt="Canta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img  align="center" alt="Canta-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img  align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+   
 </div>
 
 <br />
