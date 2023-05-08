@@ -8,7 +8,7 @@
 
 ## Sobre mim :sunglasses:	 :
 
-> Olá! Bem vindo ao meu `github`! Aqui eu documento todos os meus projetos e estudos que tenho realizado. Tenho direcionado os meus estudos para a área de `análise de dados` e `machine learning` utilizando a linguagem `Python`. Também realizo algumas documentações e as publico no meu <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br"> Linkedin </a>. Me encantei pela área de tecnologia e poder trazer insights com dados é o que me motivou a mergulhar nesta imensidão de oportunidades! Quero trazer valor para a área de dados aplicando-a na área da saúde!
+> Olá! Bem vindo ao meu `github`! Aqui eu documento todos os meus projetos e estudos que tenho realizado. Tenho direcionado os meus estudos para a área de `análise de dados` e `machine learning` utilizando a linguagem `Python`. Também realizo algumas documentações e as publico no meu <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br"> Linkedin </a>. Me encantei pela área de tecnologia e poder trazer insights com dados é o que me motivou a mergulhar nesta imensidão de oportunidades! Quero trazer valor para a área de dados aplicando-a nas mais diversas áreas do mercado!
 
 <br />
   
@@ -26,7 +26,9 @@
 <br />
 
 <div>
-   <img alt="Canta-Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
+   <img alt="Canta-Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+   <img alt="Canta=PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=yellow" />
+   <img alt="Canta-Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=black" />
 </div>
   
   <br>
