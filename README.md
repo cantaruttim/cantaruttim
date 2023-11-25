@@ -18,19 +18,12 @@
   <img align="center" alt="Canta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Canta-Jupyter" height="30" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
   <img align="center" alt="Canta-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
+  <img align="center" alt="Canta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
   <img  align="center" alt="Canta-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-   
 </div>
 
 <br />
 
-<div>
-   <img alt="Canta-Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-   <img alt="Canta-PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=yellow" />
-  <img alt="Canta-Apache" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=red" />
-  </div>
-  
-  <br>
   
 ## Redes Sociais:
   
