@@ -20,6 +20,7 @@
   <img align="center" alt="Canta-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" />
   <img align="center" alt="Canta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
   <img  align="center" alt="Canta-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align="center" alt="Conta-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /> 
 </div>
 
 <br />
