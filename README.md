@@ -48,6 +48,6 @@
   <br>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=393E46&height=120&section=footer"/>
