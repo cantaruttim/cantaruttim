@@ -24,8 +24,6 @@
   <img align="center" alt="Canta-dbeaver" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" />
   <img align="center" alt="Canta-Java" height="40" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-
-  <img align="center" alt="Canta-Docker" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 </div>
 
 <br />
@@ -43,12 +41,6 @@
 
 <br />
   
-
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cantaruttim}/count.svg" /></p> 
-  <br>
-</div>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
