@@ -15,10 +15,11 @@
 ## Tools 🔥:
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /> 
   <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Canta-Jupyter" height="40" width="40" src="https://devicons.railway.app/i/jupyter.svg" />
-  <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /> 
-  <!-- <img align="center" alt="Canta-CSharp" height="40" width="40" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" /> -->
+  <img align="center" alt="Canta-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="Canta-CSharp" height="40" width="40" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" />
   <img align="center" alt="Canta-MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
   <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Canta-dbeaver" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" />
@@ -26,6 +27,10 @@
   src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 </div>
 
+<div style="display: inline_block"> <br>
+  <img align="center" alt="Canta-Intellij" height="40" width="40" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" />
+  <img align="center" alt="Canta-VSCode" height="80" width="80" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo%403x.png" />
+</div>
 <br />
 
   
