@@ -29,6 +29,7 @@
 <div style="display: inline_block"> <br>
   <img align="center" alt="Canta-Intellij" height="40" width="40" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" />
   <img align="center" alt="Canta-VSCode" height="80" width="80" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo%403x.png" />
+  <img align="center" alt="Canta-SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
 <br />
 
