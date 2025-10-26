@@ -21,7 +21,6 @@
   <img align="center" alt="Canta-NodeJS" height="40" width="40" 
   <img align="center" alt="Canta-MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
   <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Canta-dbeaver" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" />
   <img align="center" alt="Canta-Java" height="40" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 </div>
