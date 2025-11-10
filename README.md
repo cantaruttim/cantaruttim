@@ -8,7 +8,7 @@
 
 ## Sobre mim :sunglasses:	 :
 
-> Olá! Bem vindo ao meu `github`! Aqui eu documento todos os meus projetos e estudos que tenho realizado. Após ter direcionado os meus estudos para a área de `análise de dados` e `machine learning` utilizando a linguagem `Python`. Comecei a me interessar fortemente pelo backend das aplicações que havia trabalhado. Para acompanhar a minha carreira profissonal, você pode visitar o meu <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br"> Linkedin </a>. Me encantei pela área de tecnologia e poder transformar os negócios por meio da tecnologia! Quero trazer valor para o seu negócio em aplicando-a nas mais diversas áreas do mercado!
+> Olá! Bem vindo ao meu `github`! Aqui eu documento todos os meus projetos e estudos que tenho realizado. Após ter direcionado os meus estudos para a área de `análise de dados` e `machine learning` utilizando a linguagem `Python` hoje conheço `Java`, `.NET` e `node` (me interesso por todas as tecnologias - com um carinho especial ao <strong>backend</strong>. Para acompanhar a minha carreira profissonal, você pode visitar o meu <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br"> Linkedin </a> ou o meu canal no `youtube` ou até mesmo meu blog no `medium`. Me encantei pela área de tecnologia! Poder transformar ideias em produtos brilha os meus olhos. Quero trazer valor para o seu negócio e tratando a sua dor nas mais diversas áreas do mercado!
 
 <br />
   
