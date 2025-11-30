@@ -6,9 +6,9 @@
 
 <br />
 
-## Sobre mim :sunglasses:	 :
+## About me :sunglasses:	 :
 
-> Olá! Bem vindo ao meu `github`! Aqui eu documento todos os meus projetos e estudos que tenho realizado. Após ter direcionado os meus estudos para a área de `análise de dados` e `machine learning` utilizando a linguagem `Python` hoje conheço `Java`, `.NET` e `node` (me interesso por todas as tecnologias - com um carinho especial ao <strong>backend</strong>. Para acompanhar a minha carreira profissonal, você pode visitar o meu <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br"> Linkedin </a> ou o meu canal no `youtube` ou até mesmo meu blog no `medium`. Me encantei pela área de tecnologia! Poder transformar ideias em produtos brilha os meus olhos. Quero trazer valor para o seu negócio e tratando a sua dor nas mais diversas áreas do mercado!
+> Hello! Welcome to my GitHub! Here I document all the projects and studies I have been working on. After focusing my studies on data analysis and machine learning using the Python language, I am now also familiar with Java, .NET, and Node (I’m interested in all technologies, with a special passion for the <strong>backend</strong>). To follow my professional career, you can visit my <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br">LinkedIn</a>, my YouTube channel, or even my blog on Medium. I became fascinated with the tech field! Being able to turn ideas into products truly excites me. I want to bring value to your business and address its challenges across various market areas!
 
 <br />
   
@@ -33,7 +33,7 @@
 <br />
 
   
-## Redes Sociais:
+## Social Media:
   
 <div> 
   
