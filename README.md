@@ -8,15 +8,14 @@
 
 ## About me :sunglasses:	 :
 
-> Hello! Welcome to my GitHub! Here I document all the projects and studies I have been working on. After focusing my studies on data analysis and machine learning using the Python language, I am now also familiar with Java, .NET, and Node (I’m interested in all technologies, with a special passion for the <strong>backend</strong>). To follow my professional career, you can visit my <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br">LinkedIn</a>, my YouTube channel, or even my blog on Medium. I became fascinated with the tech field! Being able to turn ideas into products truly excites me. I want to bring value to your business and address its challenges across various market areas!
+> Hello! Welcome to my GitHub! Here I document all the projects and studies I have been working on. After focusing my studies on data analysis and machine learning using the Python language, I am now also familiar with Java, with a special passion for the <strong>backend</strong>). My main goal is build systems that can be associated with Machine Learning algorithms, bringing value to all marketplaces. To follow my professional career, you can visit my <a href="https://www.linkedin.com/in/matheusalmeidacantarutti/?originalSubdomain=br">LinkedIn</a>, my YouTube channel, or even my blog on Medium. I became fascinated with the tech field! Being able to turn ideas into products truly excites me. I want to bring value to your business even to your company!
 
 <br />
   
 ## Tools 🔥:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /> 
-  <img align="center" alt="Canta-CSharp" height="40" width="40" src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" />
+  <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Canta-NodeJS" height="40" width="40" 
   <img align="center" alt="Canta-MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
