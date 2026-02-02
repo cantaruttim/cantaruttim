@@ -17,7 +17,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Canta-TypeScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Canta-React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img align="center" alt="Canta-MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
   <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
