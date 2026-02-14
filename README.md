@@ -15,8 +15,8 @@
 ## Tools 🔥:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="Canta-React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img align="center" alt="Canta-MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
   <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
@@ -25,7 +25,6 @@
 </div>
 
 <div style="display: inline_block"> <br>
-  <img align="center" alt="Canta-Intellij" height="40" width="40" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" />
   <img align="center" alt="Canta-VSCode" height="80" width="80" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo%403x.png" />
   <img align="center" alt="Canta-SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
