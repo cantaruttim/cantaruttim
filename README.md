@@ -16,19 +16,34 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Canta-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-  <img align="center" alt="Canta-React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img align="center" alt="Canta-MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
   <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Canta-Java" height="40" width="40"
   src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Canta-Apache" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
+  <img align="center" alt="Canta-Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
+          
 </div>
 
 <div style="display: inline_block"> <br>
   <img align="center" alt="Canta-VSCode" height="80" width="80" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo%403x.png" />
-  <img align="center" alt="Canta-SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Pycharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 </div>
 <br />
+
+<div style="display: inline_block"> <br>
+
+  
+  <img align="center" alt="MS-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />        
+  <img align="center" alt="CosmosDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original-wordmark.svg" />
+  <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="Confluence" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" />
+  <img align="center" alt="Numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Matplotlib" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  
+</div>
 
   
 ## Social Media:
