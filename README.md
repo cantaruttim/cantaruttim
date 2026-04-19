@@ -14,34 +14,24 @@
   
 ## Tools 🔥:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Canta-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Canta-MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />   
-  <img  align="center" alt="Canta-Post" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Canta-Java" height="40" width="40"
-  src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Canta-Apache" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
-  <img align="center" alt="Canta-Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
-          
-</div>
-
-<div style="display: inline_block"> <br>
-  <img align="center" alt="Canta-VSCode" height="80" width="80" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo%403x.png" />
-  <img align="center" alt="Pycharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-</div>
-<br />
-
-<div style="display: inline_block"> <br>
-
-  
-  <img align="center" alt="MS-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />    
-  <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img align="center" alt="Confluence" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" />
-  <img align="center" alt="Numpy" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img align="center" alt="Pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Matplotlib" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  
-</div>
+<table border="0" cellpadding="0" cellspacing="0" style="overflow-x: auto; display: block;">
+  <tr>
+    <td><img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></td>
+    <td><img alt="MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></td>
+    <td><img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></td>
+    <td><img alt="MongoDB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" /></td>
+    <td><img alt="Apache" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" /></td>
+    <td><img alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /></td>
+    <td><img alt="VSCode" height="40" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo%403x.png" /></td>
+    <td><img alt="PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /></td>
+    <td><img alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /></td>
+    <td><img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /></td>
+    <td><img alt="Confluence" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" /></td>
+    <td><img alt="NumPy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /></td>
+    <td><img alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /></td>
+    <td><img alt="Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" /></td>
+  </tr>
+</table>
 
   
 ## Social Media:
