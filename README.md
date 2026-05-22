@@ -17,6 +17,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="overflow-x: auto; display: block;">
   <tr>
     <td><img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></td>
+    <td><img alt="Java" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></td>
     <td><img alt="MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></td>
     <td><img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></td>
     <td><img alt="MongoDB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" /></td>
