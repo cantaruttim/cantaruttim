@@ -23,12 +23,10 @@
     <td><img alt="MongoDB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" /></td>
     <td><img alt="CassandraDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg"/></td>    
     <td><img alt="Apache" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" /></td>
-    <td><img alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /></td>
+    <td><img alt="Apache Spark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /></td>\
+    <td><img alt="Apache Maven" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" /></td>
     <td><img alt="VSCode" height="40" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo%403x.png" /></td>
-    <td><img alt="PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /></td>
-    <td><img alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /></td>
     <td><img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /></td>
-    <td><img alt="Confluence" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" /></td>
     <td><img alt="NumPy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /></td>
     <td><img alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /></td>
     <td><img alt="Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" /></td>
