@@ -76,7 +76,7 @@ I work at the intersection of **data engineering and software engineering**, wit
 
 ---
 
-![perfil](https://onedrive.live.com/my?viewid=68a9aec8%2D4a26%2D4b21%2D995d%2D445e3dde2e72&id=%2Fpersonal%2Ff32956ecda08321a%2FDocuments%2FDocuments%2FPessoal%2FChatGPT%20Image%20Sep%2018%2C%202026%20at%2010%5F43%5F06%20PM%2Epng&parent=%2Fpersonal%2Ff32956ecda08321a%2FDocuments%2FDocuments%2FPessoal)
+![perfil](https://github.com/cantaruttim/cantaruttim/blob/main/assets/perfil)
 
 ---
 
